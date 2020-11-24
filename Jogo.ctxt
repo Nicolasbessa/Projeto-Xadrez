@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Jogo
+comment0.text=\n\ Armazena\ o\ tabuleiro\ e\ responsavel\ por\ posicionar\ as\ pecas.\n\ \n\ @author\ Alan\ Moraes\ &lt;alan@ci.ufpb.br&gt;\n\ @author\ Leonardo\ Villeth\ &lt;lvilleth@cc.ci.ufpb.br&gt;\n
+comment1.params=
+comment1.target=Jogo()
+comment2.params=
+comment2.target=void\ criarPecas()
+comment2.text=\n\ Posiciona\ pe\uFFFDas\ no\ tabuleiro.\n\ Utilizado\ na\ inicializa\uFFFDao\ do\ jogo.\n
+comment3.params=origemX\ origemY\ destinoX\ destinoY
+comment3.target=void\ moverPeca(int,\ int,\ int,\ int)
+comment3.text=\n\ Comanda\ uma\ Pe\uFFFDa\ na\ posicao\ (origemX,\ origemY)\ fazer\ um\ movimento\ \n\ para\ (destinoX,\ destinoY).\n\ \n\ @param\ origemX\ linha\ da\ Casa\ de\ origem.\n\ @param\ origemY\ coluna\ da\ Casa\ de\ origem.\n\ @param\ destinoX\ linha\ da\ Casa\ de\ destino.\n\ @param\ destinoY\ coluna\ da\ Casa\ de\ destino.\n
+comment4.params=
+comment4.target=Tabuleiro\ getTabuleiro()
+comment4.text=\n\ @return\ o\ Tabuleiro\ em\ jogo.\n
+numComments=5

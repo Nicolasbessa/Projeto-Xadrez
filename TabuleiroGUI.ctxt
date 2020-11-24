@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=TabuleiroGUI
+comment0.text=\n\ Interface\ Grafica\ do\ Tabuleiro\ do\ jogo.\n\ \n\ @author\ Alan\ Moraes\ &lt;alan@ci.ufpb.br&gt;\n\ @author\ Leonardo\ Villeth\ &lt;lvilleth@cc.ci.ufpb.br&gt;\n
+comment1.params=
+comment1.target=TabuleiroGUI()
+comment1.text=\n\ Creates\ new\ form\ Tabuleiro\n
+comment2.params=janela
+comment2.target=TabuleiroGUI(JanelaPrincipal)
+comment3.params=
+comment3.target=void\ criarCasas()
+comment3.text=\n\ Preenche\ o\ tabuleiro\ com\ 64\ casas\n
+comment4.params=x\ y
+comment4.target=java.awt.Color\ calcularCor(int,\ int)
+comment5.params=jogo
+comment5.target=void\ atualizar(Jogo)
+comment6.params=
+comment6.target=JanelaPrincipal\ getJanela()
+comment7.params=
+comment7.target=void\ initComponents()
+comment7.text=\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\n\ regenerated\ by\ the\ Form\ Editor.\n
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=JanelaPrincipal
+comment0.text=\n\ Tela\ do\ jogo.\n\ Respons\uFFFDvel\ por\ reagir\ aos\ cliques\ feitos\ pelo\ jogador.\n\ \n\ @author\ Alan\ Moraes\ &lt;alan@ci.ufpb.br&gt;\n\ @author\ Leonardo\ Villeth\ &lt;lvilleth@cc.ci.ufpb.br&gt;\n
+comment1.params=casaClicada
+comment1.target=void\ reagir(CasaGUI)
+comment1.text=\n\ Responde\ aos\ cliques\ realizados\ no\ tabuleiro.\n\ \n\ @param\ casaClicada\ Casa\ que\ o\ jogador\ clicou.\n
+comment2.params=
+comment2.target=JanelaPrincipal()
+comment2.text=\n\ Construtor\ da\ classe.\n
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ criarNovoJogo()
+comment5.text=\n\ Cria\ um\ novo\ jogo\ e\ atualiza\ o\ tabuleiro\ gr\uFFFDfico.\n
+comment6.params=
+comment6.target=void\ atualizar()
+comment7.params=
+comment7.target=void\ initComponents()
+comment7.text=\n\ This\ method\ is\ called\ from\ within\ the\ constructor\ to\ initialize\ the\ form.\n\ WARNING\:\ Do\ NOT\ modify\ this\ code.\ The\ content\ of\ this\ method\ is\ always\n\ regenerated\ by\ the\ Form\ Editor.\n
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+comment8.text=\n\ @param\ args\ the\ command\ line\ arguments\n
+comment9.params=
+comment9.target=void\ run()
+numComments=10

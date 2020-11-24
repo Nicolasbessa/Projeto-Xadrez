@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Peca
+comment0.text=\n\ Representa\ uma\ Pe\uFFFDa\ do\ jogo.\n\ Possui\ uma\ casa\ e\ um\ tipo\ associado.\n\ \n\ @author\ Alan\ Moraes\ &lt;alan@ci.ufpb.br&gt;\n\ @author\ Leonardo\ Villeth\ &lt;lvilleth@cc.ci.ufpb.br&gt;\n
+comment1.params=casa\ tipo
+comment1.target=Peca(Casa,\ int)
+comment2.params=destino
+comment2.target=void\ mover(Casa)
+comment2.text=\n\ Movimenta\ a\ peca\ para\ uma\ nova\ casa.\n\ @param\ destino\ nova\ casa\ que\ ira\ conter\ esta\ peca.\n
+comment3.params=
+comment3.target=int\ getTipo()
+comment3.text=\n\ Valor\ \ \ \ Tipo\n\ \ \ 0\ \ \ Branca\ (Torre)\n\ \ \ 1\ \ \ Preta\ (Torre)\n\ \ \ 2\ \ \ Branco\ (Cavalo)\n\ \ \ 3\ \ \ Preto\ (Cavalo)\n\ @return\ o\ tipo\ da\ peca.\n
+numComments=4
